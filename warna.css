@@ -1,0 +1,127 @@
+body {
+    /* background-color: rgb(27, 96, 27); */
+    background: url(Megawati.jpeg);
+    color: rgb(208, 239, 4);
+}
+.kalimat {
+    background-color: rgb(142, 144, 145);
+    justify-content: center;
+    border-radius: 10px;
+    border-color: black;
+    padding: 10px;
+    margin: 12px;
+}
+.button {
+    justify-content: center;
+    background-color: rgb(167, 167, 167);
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: 10px;
+}
+.box1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: yellow;
+    font-style: normal;
+}
+.box2 {
+    font-size: 24px;
+    color: rgb(0, 238, 255);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+}
+.box3 {
+    color: blue;
+    font-style: oblique;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+}
+.box4 {
+    color: brown;
+    font-style: inherit;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    font-size: large;
+}
+.box5 {
+    color: green;
+    font-style: unset;
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.boxes {
+    background-color: rgb(153, 154, 155);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+.list {
+    color: rgb(93, 0, 255);
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    background-color: rgb(141, 139, 138);
+    border-radius: 10px;
+    padding: 2px;
+    margin: 10px;
+}
+.table {
+          border-collapse: collapse;
+      width: 60%;
+    }  th, td {
+        background-color: rgb(0, 0, 0);
+        color: rgb(212, 191, 0);
+      border: 1px solid rgb(170, 161, 161);
+      padding: 8px;
+      text-align: center;
+    }
+    th {
+      background-color: #403f3f;
+}
+.line{
+    background-color: rgb(0, 0, 0);
+}
+#garis_1{
+    color: aqua;
+    border-style: solid;
+    padding: 5px;
+}
+
+#garis_2{
+    color: red;
+    border-style: dotted;
+    padding: 5px;
+}
+
+#garis_3{
+    color: blue;
+    border-style: dashed;
+    padding: 5px;
+}
+
+#garis_4{
+    color: rgb(255, 153, 0);
+    border-style: double;
+    padding: 5px;
+}
+
+#garis_5{
+    color: brown;
+    border-style: groove;
+    padding: 5px;
+}
+#garis_6{
+    color: beige;
+    border-style: inset;
+    padding: 5px;
+}
+#garis_7{
+    color: green;
+    border-style: outset;
+    padding: 5px;
+}
+#garis_8{
+    color: purple;
+    border-style: ridge;
+    padding: 5px;
+}
